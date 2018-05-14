@@ -1,5 +1,5 @@
 #!/bin/sh
-
+sd
 echo 'Copying Git hooks...'
 cd ./.git/hooks
 
